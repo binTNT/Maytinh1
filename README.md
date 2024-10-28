@@ -1,2 +1,3 @@
 Đây là app máy tinh
-https://github.com/binTNT/VH-BTPM?tab=readme-ov-file
+[apk
+](https://github.com/binTNT/Maytinh1/raw/main/app-release.apk)
